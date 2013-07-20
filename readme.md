@@ -1,9 +1,9 @@
-# Mocha generator [![Build Status](https://secure.travis-ci.org/yeoman/generator-mocha.png?branch=master)](http://travis-ci.org/yeoman/generator-mocha)
+# Mocha AMD generator
 
 
 ## Getting Started
 
-Install: `npm install -g generator-mocha`
+Install: `npm install (-g) git://github.com/mrichard/generator-mocha-amd.git`
 
 
 ## Contribute
